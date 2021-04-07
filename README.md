@@ -1,2 +1,1 @@
-# assignment0-RajathT2000
-# assignment0-RajathT2000
+I have Automated the left paddle 
